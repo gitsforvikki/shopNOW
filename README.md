@@ -2,19 +2,24 @@
 # 
 
 # A online shoping web application
-> It is a completely MERN stack web application.
+> It is a completely MERN stack web application.The theem of this  application is e-commerce/online shoping application.
+It's accept strip credit card payment(test mode as of now).
 There are many reliable and advanced technoloies like **React , Redux, node js, express js, mongoDb** and many more
 are used to develop and maintain the project.
 
+# Usage
+1. Launch the shopNOW App.
+2. Create an account and login.
+3. Explore the products or item available on store.
+4. You can select any item,check details and add to cart.
+5. Update your profile with delivery location.
+6. For checkout make credit card payment(Test payment as of now).
+7. Enjoy shoping and explore more and more items.
 
-# Features
-***
-* Browse Movies: View a list of upcoming movies with relevant information.
-* Movie Details: Click on a movie to see detailed information, such as overview, release date, and rating.
-* Search Functionality: Search for movies by title.
-* Redux Toolkit Integration: Utilizes Redux Toolkit for efficient state management.
-* Infinite Scrolling: Effortlessly explore movies with automatic loading as you scroll down the list.
-***
+# Live link
+[shopNOW](https://uninterested-pink-bison.cyclic.app/)
+
+
 
 ## 🛠 Technologies used
 > ### client side setup
@@ -73,20 +78,7 @@ are used to develop and maintain the project.
 
     
 
-# Installation
-1. Clone this repository: git clone https://github.com/souravchiku/GSIV23_Sourav_Kumar.git
-2. Navigate to the project directory: cd GSIV23_Sourav_Kumar
-3. Install dependencies:npm install
-4. Start the development server:npm start
-5. Open your web browser and navigate to http://localhost:3000 to access the app.
-6. 
-# Usage
-1. Launch the Movie Browser App.
-2. Explore the list of available movies.
-3. As you scroll down the movie list, more movies will be automatically loaded due to infinite scrolling.
-4. Click on a movie to view detailed information.
-5. Use the search bar to find movies by title.
-6. Enjoy browsing and exploring movies with the added convenience of infinite scrolling!
+
 ## How to clone and Run the Project
 
 ### clone the project
