@@ -1,13 +1,13 @@
 # shopNOW
 # 
 
-### A online shoping web application
+## A online shoping web application
 > It is a completely MERN stack web application.The theem of this  application is e-commerce/online shoping application.
 It's accept strip credit card payment(test mode as of now).
 There are many reliable and advanced technoloies like **React , Redux, node js, express js, mongoDb** and many more
 are used to develop and maintain the project.
 
-### Usage
+## Usage
 1. Launch the shopNOW App.
 2. Create an account and login.
 3. Explore the products or item available on store.
